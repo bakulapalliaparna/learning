@@ -1,0 +1,26 @@
+body {
+    background-color: darkslategray;
+    text-align: center;
+  }
+  
+  hr {
+    background-color: greenyellow;
+  }
+  
+  .box {
+    margin-left: 35%;
+    width: 30%;
+    background-color: white;
+    border: 1px solid red;
+    /* border-radius: 15px; */
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+  
+  .button {
+    background-color: rgb(32, 206, 32);
+    color: white;
+    border-color: rgb(32, 206, 32);
+    border-radius: 5px;
+    height: 25px;
+  }
