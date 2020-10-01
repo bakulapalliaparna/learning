@@ -15,7 +15,7 @@
 `git commit -m "[Add a message for the changes made]"`
 
 #### Push your code to GitHub
-`git push -u [origin_name] [branch_name]`
+`git push -u [remote_name] [branch_name]`
 
 #### Pull code from GitHub (Always pull the code first before making any changes in your local)
-`git pull [origin_name] [branch_name]`
+`git pull [remote_name] [branch_name]`
