@@ -1,26 +1,33 @@
 body {
-  background-image: url(../img/rocky.jpeg);
+  background-color: #212121;
   text-align: center;
 }
 
-hr {
-  background-color: greenyellow;
+input {
+  width: 100%;
 }
 
-.box {
-  margin-left: 35%;
-  width: 30%;
-  background-color: white;
-  border: 1px solid red;
-  /* border-radius: 15px; */
-  border-top-right-radius: 15px;
-  border-bottom-left-radius: 15px;
+table,
+th,
+td {
+  padding: 5px;
 }
 
-.button {
-  background-color: rgb(32, 206, 32);
-  color: white;
-  border-color: rgb(32, 206, 32);
-  border-radius: 5px;
-  height: 25px;
+.container {
+  background-color: #ffffff;
+  margin-left: 25%;
+  margin-top: 20%;
+  width: 50%;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+.cursive {
+  font-size: 35px;
+  justify-content: space-evenly;
+  text-transform: capitalize;
+}
+
+.subtitle {
+  font-size: 10px;
 }
