@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  width: 1855px;
+  height: 975px;
+}
+
+body {
+  text-align: center;
+}
+
+.white {
+  color: white;
+}
+
+.header {
+  background-color: orange;
+  height: 10%;
+}
+
+.sidebars {
+  background-color: blue;
+  width: 10%;
+}
+
+.content {
+  width: 33.3%;
+  float: left;
+}
+
+.blue {
+  height: 80%;
+  width: 10%;
+  background-color: blue;
+}
+
+.white {
+  width: 80%;
+}
+
+.foot {
+  background-color: green;
+  height: 10%;
+  position: absolute;
+}
