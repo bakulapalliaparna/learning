@@ -1,0 +1,28 @@
+Assignment Operator
+  =
+
+Operators
+  *   -   Asterisk / Multiplication / Product
+  /   -   Slash / Division (Quotion)
+  +   -   Addition / Sum
+  -   -   Subtraction / Difference
+  %   -   Modulo (Remainder)
+  !   -   Not
+
+Operands
+  Any variable that has an Operator is known as an Operand
+    Ex: a + b   (He 'a' and 'b' are the Operands)
+
+Types of Paranthesis or Brackets in Programming
+  ()  -   Paranthesis
+  []  -   Square Brackets / Array
+  {}  -   Flower Braces / JSON Object
+
+Conditional Operators
+  ==  -   Equal To
+  === -   Is Exactly Equal To
+  !=  -   Not Equal To
+  >   -   Greater Than
+  <   -   Less Than
+  >=  -   Greater Than or Equal To
+  <=  -   Less Than or Equal To
